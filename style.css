@@ -11,7 +11,7 @@ body{
 }
 .calculator{
   background-color: white;
-  width: 440px;
+  width: 470px;
   height: 595px;
   padding: 10px;
   margin-top: 20px;
@@ -58,7 +58,7 @@ body{
   
 }
 .calBody{
-  width: 445px;
+  width: 430px;
   padding: 0px;
   background-color:white;
  align-items: center;
