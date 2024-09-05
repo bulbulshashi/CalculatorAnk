@@ -58,9 +58,9 @@ body{
   
 }
 .calBody{
-  width: 450px;
+  width: 445px;
   padding: 0px;
-  background-color:black;
+  background-color:white;
  align-items: center;
  justify-content: space-between;
  position: absolute;
