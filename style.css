@@ -1,0 +1,106 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+
+  background-color: aquamarine;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.calculator{
+  background-color: white;
+  width: 420px;
+  height: 595px;
+  padding: 10px;
+  margin-top: 20px;
+
+  border-radius: 7px;
+}
+.calDisplay{
+  background-color: black;
+  width: 410px;
+  height: 150px;
+  position: absolute;
+  margin-left: 6px;
+  border-radius: 7px;
+  margin-top: 10px;
+
+}
+.disMain{
+  background-color: gray;
+  width: 400px;
+  height: 70px;
+  margin-left: 5px;
+  color: aliceblue;
+  font-size:35px;
+  display:flex ;
+  justify-content: end;
+  
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+.disSecond{
+  background-color: white;
+  width: 400px;
+  height: 60px;
+  margin-top: 5px;
+  margin-left: 5px;
+  background-color: gray;
+  color: aliceblue;
+  font-size: 30px;
+  display: flex;
+  justify-content: end;
+  
+  font-family:Arial, Helvetica, sans-serif;
+  
+  
+}
+.calBody{
+  width: 412px;
+  padding: 0px;
+  background-color:white;
+ align-items: center;
+ justify-content: space-around;
+ position: absolute;
+ padding: 5px;
+ margin-top: 160px;
+ border-radius: 7px;
+
+}
+button{
+background-color: blueviolet;
+width: 100px;
+height: 80px;
+color: azure;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 50px;
+padding: 5px;
+margin-top: 5px;
+border-radius: 7px;
+}
+.ac{
+  background-color: blueviolet;
+  width: 100px;
+  height: 80px;
+  color: azure;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 7px;
+  }
+  .equal{
+    background-color: blueviolet;
+    width: 100px;
+    height: 80px;
+    color: azure;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 7px;
+    }
+  
+
